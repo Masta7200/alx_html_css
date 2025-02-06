@@ -8,6 +8,7 @@ body {
 
 /* Footer Styling */
 .footer {
+    max-width:1000px;
     background-color: #0f172a; /* Dark navy background */
     color: #fff;
     padding: 20px 0;
